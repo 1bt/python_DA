@@ -1,2 +1,2 @@
 # python_DA
-data anlyaze by python
+data analysis by python
